@@ -20,11 +20,10 @@
 
 ## Screenshots
 
-![Login Page](https://github.com/kairos1205/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/login%20ss.png)
+<img width="824" height="441" alt="image" src="https://github.com/user-attachments/assets/60660b4e-112b-4999-9032-07c4df319411" />
+<img width="827" height="441" alt="image" src="https://github.com/user-attachments/assets/3c444587-5b62-415c-8de6-039a79e1197c" />
+<img width="827" height="439" alt="image" src="https://github.com/user-attachments/assets/fa8d8b42-847f-44b6-aea0-5e064cfbcf7e" />
 
-![Admin Page](https://github.com/kairos1205/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/admin%20ss.png)
-
-![Voter Page](https://github.com/kairos1205/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/index%20ss.png)
 
 ## Installation
 
