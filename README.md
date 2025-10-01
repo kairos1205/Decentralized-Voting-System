@@ -188,7 +188,7 @@ truffle migrate
 This project is licensed under the **MIT License**.
 You're free to use, modify, and distribute it, as long as you retain the original license and attribution.
 
-🔗 [View LICENSE](https://github.com/kairos1205/Decentralized-Voting-System/blob/main/LICENSE)
+🔗 [View LICENSE](https://github.com/kairos1205/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/LICENSE)
 
 ---
 
